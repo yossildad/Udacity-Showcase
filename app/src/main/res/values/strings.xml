@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Udacity Showcase</string>
+    <string name="btnSpf">Spotify Streamer</string>
+    <string name="btnXyz">XYZ Locator</string>
+    <string name="btnCaps">Capstone</string>
+    <string name="btnScore">Scores App</string>
+    <string name="btnLibrary">Library App</string>
+    <string name="btnBuild">Build it bigger</string>
+    <string name="tvHeadline">My Nanodegree Apps!</string>
+    <string name="action_settings">Settings</string>
+</resources>
